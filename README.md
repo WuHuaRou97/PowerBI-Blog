@@ -1,5 +1,6 @@
 # PowerBI-Blog
 My Blog on Power BI Community
+https://community.powerbi.com/t5/user/viewprofilepage/user-id/320777
 
 ### Understand the Filter Context and How to Control it 
 https://community.powerbi.com/t5/Community-Blog/Understand-the-Filter-Context-and-How-to-Control-it/ba-p/2452011
