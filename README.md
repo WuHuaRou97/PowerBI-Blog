@@ -9,3 +9,7 @@ https://community.powerbi.com/t5/Community-Blog/Understand-the-Filter-Context-an
 
 ### Add date to the new records without changing previous date 
 https://community.powerbi.com/t5/Community-Blog/Add-date-to-the-new-records-without-changing-previous-date/ba-p/2675265
+
+## Others' blogs
+### [PowerQuery] Decompress .zip Files
+https://community.powerbi.com/t5/Community-Blog/PowerQuery-Decompress-zip-Files/ba-p/1326035
